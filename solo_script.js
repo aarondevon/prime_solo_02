@@ -1,6 +1,8 @@
 // ! ! !
 // Three Bugs
-// 
+// removed array from loop and added array[i]
+// return basePercent -1 changed to return basePercent
+// used Math.round on newArray[3]
 var arrayAtticus = ["Atticus", "2405", "47000", 3];
 var arrayJem = ["Jem", "62347", "63500", 4];
 var arrayBoo = ["Boo", "11435", "54000", 3];
