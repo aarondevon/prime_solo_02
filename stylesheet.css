@@ -5,6 +5,9 @@ body {
 }
 
 li {
+	text-align: center;
+	font-family: "Verdana", Arial, Sans-serif;
+	font-size: 25px;
 	margin-top: 10px;
 	list-style-type: none; 
 
